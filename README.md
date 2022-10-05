@@ -1,5 +1,6 @@
 # **LogoQuiz**
-## Gra na projekt z Programowanie w jezyku C2 (II Rok I semestr) [C++]
+## Entertaining game where the user guess the logos of popular companies
+### Language: C++ (Allegro 5 library)
 
 &nbsp;
 
