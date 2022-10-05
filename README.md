@@ -1,5 +1,5 @@
 # **LogoQuiz**
-## Entertaining game where the user guess the logos of popular companies
+## Entertaining game where the user guess the logos of popular companies.
 ### Language: C++ (Allegro 5 library)
 
 &nbsp;
